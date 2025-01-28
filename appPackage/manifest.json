@@ -14,8 +14,8 @@
         "outline": "outline.png"
     },
     "name": {
-        "short": "cpg_bot${{APP_NAME_SUFFIX}}",
-        "full": "full name for cpg_bot"
+        "short": "CPG ${{APP_NAME_SUFFIX}}",
+        "full": "CPG Librarian"
     },
     "description": {
         "short": "short description for cpg_bot",

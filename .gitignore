@@ -16,3 +16,5 @@ devTools/*.log
 
 # Dev tool directories
 /devTools/
+
+/citation_fix/
